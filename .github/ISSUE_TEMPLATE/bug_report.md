@@ -9,11 +9,9 @@ assignees: ''
 
 **バグの説明**
 
-
 **再現手順**
 
 **期待される動作**
-A clear and concise description of what you expected to happen.
 
 **Screenshots**
 
